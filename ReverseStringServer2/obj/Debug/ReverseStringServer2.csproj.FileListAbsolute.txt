@@ -1,0 +1,14 @@
+C:\Users\Tommaso\Desktop\ReverseStringServer2\ReverseStringServer2\obj\Debug\ReverseStringServer2.csprojAssemblyReference.cache
+C:\Users\Tommaso\Desktop\ReverseStringServer2\ReverseStringServer2\obj\Debug\ReverseStringServer2.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\Desktop\ReverseStringServer2\ReverseStringServer2\bin\Debug\ReverseStringServer2.exe.config
+C:\Users\Tommaso\Desktop\ReverseStringServer2\ReverseStringServer2\bin\Debug\ReverseStringServer2.exe
+C:\Users\Tommaso\Desktop\ReverseStringServer2\ReverseStringServer2\bin\Debug\ReverseStringServer2.pdb
+C:\Users\Tommaso\Desktop\ReverseStringServer2\ReverseStringServer2\obj\Debug\ReverseStringServer2.exe
+C:\Users\Tommaso\Desktop\ReverseStringServer2\ReverseStringServer2\obj\Debug\ReverseStringServer2.pdb
+C:\Users\Tommaso\Desktop\Calculator\ReverseStringServer2\bin\Debug\ReverseStringServer2.exe.config
+C:\Users\Tommaso\Desktop\Calculator\ReverseStringServer2\bin\Debug\ReverseStringServer2.exe
+C:\Users\Tommaso\Desktop\Calculator\ReverseStringServer2\bin\Debug\ReverseStringServer2.pdb
+C:\Users\Tommaso\Desktop\Calculator\ReverseStringServer2\obj\Debug\ReverseStringServer2.csprojAssemblyReference.cache
+C:\Users\Tommaso\Desktop\Calculator\ReverseStringServer2\obj\Debug\ReverseStringServer2.csproj.CoreCompileInputs.cache
+C:\Users\Tommaso\Desktop\Calculator\ReverseStringServer2\obj\Debug\ReverseStringServer2.exe
+C:\Users\Tommaso\Desktop\Calculator\ReverseStringServer2\obj\Debug\ReverseStringServer2.pdb
