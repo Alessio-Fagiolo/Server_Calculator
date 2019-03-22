@@ -84,5 +84,10 @@ namespace Calculator
             byte[] resultInBytes = BitConverter.GetBytes(result);
             socket.SendTo(resultInBytes, sender);
         }
+
+        public void stupidu()
+        {
+            Console.WriteLine("scioccooooooo");
+        }
     }
 }
